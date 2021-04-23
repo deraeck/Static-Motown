@@ -1,1 +1,1 @@
-# Static-Motown
+# staticmotown
